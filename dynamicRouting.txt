@@ -1,0 +1,9 @@
+Bahut sare routes mai sirf kuch part change hota hai for ex,
+/author/sarthak
+/author/vishal
+/author/akshat
+
+So for reducing the no of routes we use Dynamic Routing.
+
+➡️ So to create a dynamic routing you just see which part in the URL is changing and at that place in the route you just put ":".
+

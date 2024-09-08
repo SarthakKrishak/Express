@@ -1,0 +1,12 @@
+1. Express JS ek npm package hai.
+
+2. Express Js is a framework.
+
+3. framework vs library
+- library is a collection of functions.
+- framework is a collection of functions and a structure to use those functions.
+-framework mai kuch set of rules hote hai humko usko hii folow krna padhta hai.
+
+4. Express JS manages everything from recieving the request and giving the response.
+
+
